@@ -11,7 +11,6 @@ const Header = () => {
         "Mức lương cao ",
         "Thông tin thị trường ",
 
-
     ]
     const [currentText, setCurrentText] = useState(texts[2]);
     const [fade, setFade] = useState(false);
